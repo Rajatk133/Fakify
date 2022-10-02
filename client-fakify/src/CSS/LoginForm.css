@@ -1,0 +1,31 @@
+.loginContainer{
+    float: right;
+    width: fit-content;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.userName{
+    margin: 4%;
+}
+.Password{
+    margin: 4%;
+}
+.login{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    margin: 4%;
+}
+.Overall{
+    text-align: center;
+    margin: 20%;
+    display: flex;
+    justify-content: center;
+    min-width: 20%
+}
+h1{
+    text-align: center;
+    text-size-adjust: 200;
+    font-weight: 700 ;  
+    font-size:xx-large;
+}

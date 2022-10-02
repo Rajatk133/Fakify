@@ -1,9 +1,10 @@
 import React from 'react'
+import LoginForm from './LoginForm';
 
 const  App = () => {
   return (
       <>
-      <h1>Welcome To fakify</h1>
+      <LoginForm/>
       </>
   );
 }
