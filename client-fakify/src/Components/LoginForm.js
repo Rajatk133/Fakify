@@ -9,8 +9,8 @@ const LoginForm = () => {
     <div className='Overall'>
       <form id='Logindata'>
     <span className='loginContainer'>
-        <div className='userName'><TextField id="outlined-basic" label="Enter your UserName" variant="outlined" /></div>
-        <div className='Password'><TextField id="outlined-basic" label="Enter your Passord" variant="outlined" /></div>
+        <div className='userName'><TextField id="outlined-basic" label="User Name" variant="outlined" /></div>
+        <div className='Password'><TextField id="outlined-basic" label="Password" variant="outlined" /></div>
         <div className='login'><Button variant="text" >Login</Button></div>
     </span> 
     </form>

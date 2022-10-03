@@ -1,14 +1,13 @@
 .loginContainer{
-    float: right;
-    width: fit-content;
     margin-left: 5%;
     margin-right: 5%;
+    padding: 50px;
 }
 .userName{
-    margin: 4%;
+    margin: 3%;
 }
 .Password{
-    margin: 4%;
+    margin: 3%;
 }
 .login{
     align-content: center;
